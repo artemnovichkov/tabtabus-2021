@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Что делать, пока собирается проект
 
-You can use the [editor on GitHub](https://github.com/artemnovichkov/tabtabus-2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Полезные ссылки к докладу с конференции [Tabtabus](https://fest.tabtabus.ru/speakers)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### StackOverflow
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Stack Exchange Tour](https://stackexchange.com/tour)
+- [Можно ли программировать без интернета — Григорий Бакунов](https://youtu.be/h10qZGq36DE)
 
-```markdown
-Syntax highlighted code block
+### Open Source
+- [Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers)
+- [Artsy Readme](https://github.com/artsy/README)
+- [Avito Playbook](https://github.com/avito-tech/playbook)
+- [Open Source Friday](https://opensourcefriday.com)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [Open Source Guides](https://opensource.guide)
+- [Podlodka #40 — Культура open source](https://podcasts.apple.com/ru/podcast/podlodka-podcast/id1209828744)
 
-# Header 1
-## Header 2
-### Header 3
+## Продажа лицензий
+- [SellMyApp](https://www.sellmyapp.com)
+- [EnvatoMarket](https://codecanyon.net)
+- [Flippa](https://flippa.com)
 
-- Bulleted
-- List
+## Менторство
+- [Codementor](https://www.codementor.io)
+- [Solvery](https://solvery.io)
+- [GetMentor](https://getmentor.dev)
 
-1. Numbered
-2. List
+## Обо мне
 
-**Bold** and _Italic_ and `Code` text
+Бородатый Swift-разработчик из Сибири 👨🏻‍💻
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/artemnovichkov/tabtabus-2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://www.artemnovichkov.com/about
